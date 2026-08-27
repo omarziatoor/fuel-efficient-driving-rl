@@ -1,0 +1,7 @@
+gym
+stable-baselines3
+tensorflow
+paho-mqtt
+requests
+numpy
+matplotlib
